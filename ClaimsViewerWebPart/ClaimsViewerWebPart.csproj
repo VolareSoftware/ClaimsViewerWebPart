@@ -96,9 +96,11 @@
       <HintPath>..\packages\Microsoft.SharePointOnline.CSOM.16.1.20122.12000\lib\net45\Microsoft.SharePoint.Client.WorkflowServices.dll</HintPath>
     </Reference>
     <Reference Include="System" />
+    <Reference Include="System.ComponentModel.DataAnnotations" />
     <Reference Include="System.Core" />
     <Reference Include="System.Data" />
     <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Web.DynamicData" />
     <Reference Include="System.Xml" />
     <Reference Include="System.Xml.Linq" />
     <Reference Include="Microsoft.SharePoint" />
@@ -126,6 +128,7 @@
       <FeatureId>{a80359c1-e2e3-405b-8c5a-94e46ae28e2d}</FeatureId>
     </None>
     <None Include="key.snk" />
+    <None Include="README.md" />
   </ItemGroup>
   <ItemGroup>
     <None Include="packages.config" />
