@@ -6,6 +6,6 @@
     <ProjectItemFile Source="ClaimsViewerWebPartUserControl.ascx" Target="CONTROLTEMPLATES\ClaimsViewerWebPart\ClaimsViewerWebPart\" Type="TemplateFile" />
   </Files>
   <SafeControls>
-    <SafeControl Name="SafeControlEntry1" Assembly="$SharePoint.Project.AssemblyFullName$" Namespace="ClaimsViewerWebPart.ClaimsViewerWebPart" TypeName="*" IsSafe="true" IsSafeAgainstScript="false" />
+    <SafeControl Name="ClaimsViewerWebPart" Assembly="$SharePoint.Project.AssemblyFullName$" Namespace="ClaimsViewerWebPart.ClaimsViewerWebPart" TypeName="*" IsSafe="true" IsSafeAgainstScript="false" />
   </SafeControls>
 </ProjectItem>

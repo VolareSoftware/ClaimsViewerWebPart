@@ -128,7 +128,7 @@
       <FeatureId>{a80359c1-e2e3-405b-8c5a-94e46ae28e2d}</FeatureId>
     </None>
     <None Include="key.snk" />
-    <None Include="README.md" />
+    <None Include="web.config" />
   </ItemGroup>
   <ItemGroup>
     <None Include="packages.config" />
