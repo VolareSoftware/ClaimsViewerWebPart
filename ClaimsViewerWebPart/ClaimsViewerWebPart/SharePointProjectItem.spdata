@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <ProjectItem Type="Microsoft.VisualStudio.SharePoint.VisualWebPart" DefaultFile="ClaimsViewerWebPartUserControl.ascx" SupportedTrustLevels="FullTrust" SupportedDeploymentScopes="Site" xmlns="http://schemas.microsoft.com/VisualStudio/2010/SharePointTools/SharePointProjectItemModel">
   <Files>
-    <ProjectItemFile Source="Elements.xml" Target="ClaimsViewerWebPart\" Type="ElementManifest" />
+    <ProjectItemFile Source="Elements.xml" Target="ClaimsViewerWebPart\Elements.xml" Type="ElementManifest" />
     <ProjectItemFile Source="ClaimsViewerWebPart.webpart" Target="ClaimsViewerWebPart\" Type="ElementFile" />
     <ProjectItemFile Source="ClaimsViewerWebPartUserControl.ascx" Target="CONTROLTEMPLATES\ClaimsViewerWebPart\ClaimsViewerWebPart\" Type="TemplateFile" />
   </Files>
