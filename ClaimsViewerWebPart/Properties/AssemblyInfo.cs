@@ -7,11 +7,11 @@ using System.Security;
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
 [assembly: AssemblyTitle("ClaimsViewerWebPart")]
-[assembly: AssemblyDescription("")]
+[assembly: AssemblyDescription("Show the current logged in user's claims.")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("")]
+[assembly: AssemblyCompany("Volare Systems, Inc.")]
 [assembly: AssemblyProduct("ClaimsViewerWebPart")]
-[assembly: AssemblyCopyright("Copyright ©  2015")]
+[assembly: AssemblyCopyright("Copyright ©2020")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 
